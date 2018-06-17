@@ -24,7 +24,7 @@ Le modèle le plus simple pour commencer un projet est le rover. Il est simple e
 
 [![Rover]({{page.assetsFolder}}/montage-rover.png)](rover/index.html)
 
-[Monter le Rover](rover/index.html) TODO
+[Monter le Rover](rover/index.html)
 
 ---
 
