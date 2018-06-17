@@ -7,20 +7,53 @@ selected
   <div style="clear: both;">
   </div>
 
-  {% for tab in site.data.sections %}
   <div style="margin-left:5px;float:left;">
     <svg height="50" width="150">
-      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:{{ tab.color }}" />
-      <a xlink:href="{{ site.url }}/le-petit-algonaute/{{ tab.url }}" >
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#DD3664" />
+      <a xlink:href="{{ site.url }}/le-petit-algonaute/" >
         <text fill="black" font-family="Verdana" font-size="16">
-            <tspan x="20" y="40">{{ tab.title }}</tspan>
+            <tspan x="20" y="40">Le Blog</tspan>
         </text>
       </a>
       Sorry, your browser does not support inline SVG.
     </svg>
   </div>
-  {% endfor %}
 
+  <div style="margin-left:5px;float:left;">
+    <svg height="50" width="150">
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#FE7650" />
+      <a xlink:href="{{ site.url }}/le-petit-algonaute/workshop" >
+        <text fill="black" font-family="Verdana" font-size="16">
+            <tspan x="20" y="40">Les Ateliers</tspan>
+        </text>
+      </a>
+      Sorry, your browser does not support inline SVG.
+    </svg>
+  </div>
+
+  <div style="margin-left:5px;float:left;">
+    <svg height="50" width="150">
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#FFBB4C" />
+      <a xlink:href="{{ site.url }}/le-petit-algonaute/theme" >
+        <text fill="black" font-family="Verdana" font-size="16">
+            <tspan x="20" y="40">Les Thèmes</tspan>
+        </text>
+      </a>
+      Sorry, your browser does not support inline SVG.
+    </svg>
+  </div>
+
+  <div style="margin-left:5px;float:left;">
+    <svg height="50" width="150">
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:#91a61d" />
+      <a xlink:href="{{ site.url }}/le-petit-algonaute/arduino" >
+        <text fill="black" font-family="Verdana" font-size="16">
+            <tspan x="20" y="40">A Propos</tspan>
+        </text>
+      </a>
+      Sorry, your browser does not support inline SVG.
+    </svg>
+  </div>
 
   <div style="clear: both;">
   </div>
