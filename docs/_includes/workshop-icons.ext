@@ -7,10 +7,10 @@ workshop
   <div class="entry" style="margin-bottom:15px;">
   {% for tab in site.data.workshoptabs %}
     {% if include.selected == tab.name  %}
-      <img src="/le-petit-algonaute/assets/includes/workshop/workshop-icons/images/workshop-icons-{{ tab.slug }}-on.png" style="width:150px;height:150px;" >
+      <img src="/le-petit-algonaute/assets/includes/sworkshop-icons/images/workshop-icons-{{ tab.slug }}-on.png" style="width:150px;height:150px;" >
     {% else %}
       <a href="/le-petit-algonaute/workshop/{{ include.workshop | downcase }}/{{tab.url}}">
-        <img src="/le-petit-algonaute/assets/includes/workshop/workshop-icons/images/workshop-icons-{{ tab.slug }}-off.png" style="width:150px;height:150px;" >
+        <img src="/le-petit-algonaute/assets/includes/workshop-icons/images/workshop-icons-{{ tab.slug }}-off.png" style="width:150px;height:150px;" >
       </a>
     {% endif %}
 
