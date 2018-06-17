@@ -5,8 +5,8 @@ date: '2017-11-05 19:30:00 CET'
 category: Blog
 tags: ['Mindstorms', 'Poster', 'Mission' ]
 published: true
-assetsFolder: /le-petit-algonaute/assets/posts/20171105/193000/two-steps-line-follower
-thumbnail: /le-petit-algonaute/assets/posts/20171105/193000/two-steps-line-follower/thumbmail-2stepslf-150x150.png
+assetsFolder: /le-petit-algonaute/assets/posts/20171105/193000/
+thumbnail: /le-petit-algonaute/assets/posts/20171105/193000/thumbmail-2stepslf-150x150.png
 ---
 
 Avec la rentrée commence une nouvelle série, les missions.
