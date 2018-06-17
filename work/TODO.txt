@@ -6,4 +6,4 @@ PB avec les couleurs
 
 Couleurs en dur dans les index
 
-Finir pages Arduino
+Finir pages Arduino (jukebox et exemple avec pd)
