@@ -1,14 +1,19 @@
 - id: blog
   title: Le Blog
-  color: #f19f00
+  color: #DD3664
   url:
 
 - id: workshops
   title: Les Ateliers
-  color: #d22501
+  color: #FE7650
   url: workshop
 
 - id: themes
   title: Les Thèmes
-  color: #91a61d
+  color: #FFBB4C
   url: theme
+
+- id: a_propos
+  title: A Propos
+  color: #91a61d
+  url: abouts
