@@ -25,9 +25,11 @@ Supports d'ateliers
 
   <div class="entry" style="margin-bottom:15px;">
   {% for lab in site.data.arduinolabs %}
+    <li>
       <a href="/le-petit-algonaute/assets/workshop/arduino/labs/{{ lab.url }}/Guide.pdf">
         {{ lab.title }}
       </a>
+    </li>
 
   {% endfor %}
   </div>
