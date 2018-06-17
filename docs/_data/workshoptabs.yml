@@ -1,0 +1,16 @@
+- name: decouvrir
+  slug: decouvrir
+  url: index
+
+- name: demarrer
+  slug: demarrer
+  url: demarrer
+
+- name: apprendre
+  slug: apprendre
+  url: apprendre
+
+- name: organiser
+  slug: preparer
+  url: preparer
+

@@ -1,0 +1,46 @@
+---
+layout: default
+assetsFolder: /ToutEnAlgo/assets/images/workshop
+---
+
+{% include sections-small.ext selected="#d22501" %}
+
+<article class="post">
+  <h2>{{ page.title }}</h2>
+
+  <div class="entry">
+    <p>
+      {{ content }}
+    </p>
+  </div>
+
+
+  <hr>
+  <div class="entry">
+    <p>
+      <br>
+      <a class="previous" href="/ToutEnAlgo/workshop">&#9668; Retour aux ateliers</a>
+    </p>
+  </div>
+
+  <div class="tags-expo-section" style="clear: both;">
+    <p>
+      <h4>
+        D'autres articles sur le même sujet
+      </h4>
+      <ul class="tags-expo-posts">
+        {% for tag in site.tags %}
+          {% if tag[0] == page.category %}
+            {% for item in tag[1] %}
+              {% if item.url %}
+                  <li><a href="/ToutEnAlgo{{ item.url }}">{{ item.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </p>
+  </div>
+
+
+</article>

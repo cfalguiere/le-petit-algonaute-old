@@ -1,0 +1,14 @@
+- id: blog
+  title: Le Blog
+  color: #f19f00
+  url:
+
+- id: workshops
+  title: Les Ateliers
+  color: #d22501
+  url: workshop
+
+- id: themes
+  title: Les Thèmes
+  color: #91a61d
+  url: theme

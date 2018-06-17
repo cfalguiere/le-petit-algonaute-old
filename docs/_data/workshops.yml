@@ -1,0 +1,12 @@
+- name: mindstorm
+  title: Mindstorms
+  logo: logo-mindstorms-150x150.png
+  description: Mindstorms permet d'apprendre à programmer en construisant des robots en Lego
+  url: mindstorms
+
+- name: thymio
+  title: Thymio
+  logo: logo-thymio-150x150.png
+  description: Thymio est un robot programmable destiné aux plus jeunes
+  url: thymio
+
