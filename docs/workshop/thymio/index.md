@@ -5,7 +5,7 @@ date: '2017-01-10 11:30:00 CET'
 category: Thymio
 tags: ['Thymio', 'Atelier']
 published: true
-assetsFolder: /le-petit-algonaute/assets/workshop/thymio
+assetsFolder: /le-petit-algonaute/assets/workshop/thymio/images
 ---
 
 {% include workshop-icons.ext selected="decouvrir" workshop="Thymio" %}
