@@ -5,7 +5,7 @@ date: '2017-12-27 09:30:00 CET'
 category: Mindstorms
 tags: ['Mindstorms', 'Atelier' ]
 published: true
-assetsFolder: /le-petit-algonaute/assets/workshop/mindstorms
+assetsFolder: /le-petit-algonaute/assets/workshop/mindstorms/images
 ---
 
 {% include workshop-icons.ext selected="demarrer" workshop="Mindstorms"%}
