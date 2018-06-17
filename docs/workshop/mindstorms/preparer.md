@@ -22,7 +22,7 @@ Le but est d'apprendre à programmer et concevoir des mécanismes, pas de monter
 
 Le modèle le plus simple pour commencer un projet est le rover. Il est simple et rapide à monter conçu pour intégrer facilement les divers capteurs.
 
-[![Rover]({{page.assetsFolder}}/rover.png)](rover/index.html)
+[![Rover]({{page.assetsFolder}}/montage-rover.png)](rover/index.html)
 
 [Monter le Rover](rover/index.html) TODO
 
