@@ -33,5 +33,5 @@ Les détails de la mission peuvent varier. Par exemple, le suivi de ligne a ét�
 
 Une autre idée de mise en oeuvre est la réalisation d'un véhicule qui suit la route en se basant sur les marquages au sol.
 
-<a href="{{page.assetsFolder}}/two-steps-line-follower.pdf)">Télécharger le poster</a>
+<a href="{{page.assetsFolder}}/two-steps-line-follower.pdf">Télécharger le poster</a>
 
