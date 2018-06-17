@@ -1,3 +1,7 @@
 
 Workshop / Mindstorms / Preparer
 - lien vers le montage du rover
+
+PB avec les couleurs
+
+Couleurs en dur dans les index
