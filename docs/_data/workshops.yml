@@ -10,3 +10,9 @@
   description: Thymio est un robot programmable destiné aux plus jeunes
   url: thymio
 
+- name: arduino
+  title: Arduino
+  logo: logo-arduino-150x150.png
+  description: Arduino permet de se familiariser avec l'électronique
+  url: arduino
+
