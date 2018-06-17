@@ -7,13 +7,13 @@ selected
   <div style="clear: both;">
   </div>
 
-  {% for section in site.data.sections %}
+  {% for tab in site.data.sections %}
   <div style="margin-left:5px;float:left;">
     <svg height="50" width="150">
-      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:{{ section.color }}" />
-      <a xlink:href="{{ site.url }}/le-petit-algonaute/{{ section.url }}" >
+      <polygon points="0,0 0,50 150,50 150,25 25,0" style="fill:{{ tab.color }}" />
+      <a xlink:href="{{ site.url }}/le-petit-algonaute/{{ tab.url }}" >
         <text fill="black" font-family="Verdana" font-size="16">
-            <tspan x="20" y="40">{{ section.title }}</tspan>
+            <tspan x="20" y="40">{{ tab.title }}</tspan>
         </text>
       </a>
       Sorry, your browser does not support inline SVG.
