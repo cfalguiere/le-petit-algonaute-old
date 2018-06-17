@@ -5,7 +5,7 @@ date: '2017-12-27 09:30:00 CET'
 category: Mindstorms
 tags: ['Mindstorms', 'Atelier', "Organiser"]
 published: true
-assetsFolder: /ToutEnAlgo/assets/workshop/mindstorms
+assetsFolder: /le-petit-algonaute/assets/workshop/mindstorms
 ---
 
 {% include workshop-icons.ext selected="apprendre" workshop="Mindstorms"%}

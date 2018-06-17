@@ -5,7 +5,7 @@ date: '2017-01-10 11:30:00 CET'
 category: Thymio
 tags: ['Thymio', 'Atelier']
 published: true
-assetsFolder: /ToutEnAlgo/assets/workshop/thymio
+assetsFolder: /le-petit-algonaute/assets/workshop/thymio
 ---
 
 {% include workshop-icons.ext selected="demarrer" workshop="Thymio" %}

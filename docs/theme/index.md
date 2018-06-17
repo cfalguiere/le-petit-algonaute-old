@@ -4,7 +4,7 @@ title: Themes
 date: '2017-12-27 10:30:00 CET'
 tags: ['Theme']
 published: true
-assetsFolder: /ToutEnAlgo/assets/theme
+assetsFolder: /le-petit-algonaute/assets/theme
 ---
 
 <!--

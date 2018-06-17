@@ -1,6 +1,6 @@
 ---
 layout: default
-assetsFolder: /ToutEnAlgo/assets/images/workshop
+assetsFolder: /le-petit-algonaute/assets/images/workshop
 ---
 
 {% include sections-small.ext selected="#d22501" %}
@@ -19,7 +19,7 @@ assetsFolder: /ToutEnAlgo/assets/images/workshop
   <div class="entry">
     <p>
       <br>
-      <a class="previous" href="/ToutEnAlgo/workshop">&#9668; Retour aux ateliers</a>
+      <a class="previous" href="/le-petit-algonaute/workshop">&#9668; Retour aux ateliers</a>
     </p>
   </div>
 
@@ -33,7 +33,7 @@ assetsFolder: /ToutEnAlgo/assets/images/workshop
           {% if tag[0] == page.category %}
             {% for item in tag[1] %}
               {% if item.url %}
-                  <li><a href="/ToutEnAlgo{{ item.url }}">{{ item.title }}</a></li>
+                  <li><a href="/le-petit-algonaute{{ item.url }}">{{ item.title }}</a></li>
               {% endif %}
             {% endfor %}
           {% endif %}
