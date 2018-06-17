@@ -19,10 +19,7 @@ selected
       Sorry, your browser does not support inline SVG.
     </svg>
   </div>
-  s{% endfor %}
-
-
-
+  {% endfor %}
 
 
   <div style="clear: both;">
