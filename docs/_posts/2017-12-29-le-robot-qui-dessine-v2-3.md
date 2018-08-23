@@ -6,7 +6,7 @@ category: Blog
 tags: ['Mindstorms', 'Plan de Montage']
 published: true
 assetsFolder: /le-petit-algonaute/assets/posts/2017-12-27/203000/4-porte-stylo
-thumbnail: /le-petit-algonaute/assets/posts/2017-12-27/203000/thumbmail-dessinatorv2-150x150.png
+thumbnail: /le-petit-algonaute/assets/posts/2017-12-27/203000/thumbnail-dessinatorv2-150x150.png
 ---
 
 Ce billet est la troisième partie de la construction du [robot qui dessine]({{site.prefix}}/blog/2017/12/27/le-robot-qui-dessine-v2-1).

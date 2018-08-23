@@ -6,7 +6,7 @@ category: Blog
 tags: ['Mindstorms', 'Poster', 'Mission' ]
 published: true
 assetsFolder: /le-petit-algonaute/assets/posts/2017-11-05/193000/
-thumbnail: /le-petit-algonaute/assets/posts/2017-11-05/193000/thumbmail-2stepslf-150x150.png
+thumbnail: /le-petit-algonaute/assets/posts/2017-11-05/193000/thumbnail-2stepslf-150x150.png
 ---
 
 Avec la rentrée commence une nouvelle série, les missions.

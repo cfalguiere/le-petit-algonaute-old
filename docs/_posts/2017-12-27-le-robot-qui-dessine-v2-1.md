@@ -6,7 +6,7 @@ category: Blog
 tags: ['Mindstorms', 'Plan de Montage']
 published: true
 assetsFolder: /le-petit-algonaute/assets/posts/2017-12-27/203000/
-thumbnail: /le-petit-algonaute/assets/posts/2017-12-27/203000/thumbmail-dessinatorv2-150x150.png
+thumbnail: /le-petit-algonaute/assets/posts/2017-12-27/203000/thumbnail-dessinatorv2-150x150.png
 ---
 
 ### Les principes de fonctionnement
